@@ -4,38 +4,31 @@ import com.github.javafaker.Faker;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.*;
-
+import org.testng.asserts.SoftAssert;
 import java.util.concurrent.TimeUnit;
 
 public class TestBase {
 
-//@BeforeTest : It will call Only once, before Test method.
-
-//@BeforeMethod It will call Every time before Test Method.
-
     protected WebDriver driver;
     protected Faker faker = new Faker();
+    protected SoftAssert softAssert;
+    protected Actions actions;
 
-    @BeforeClass
-    public void setUpClass(){
-
-        WebDriverManager.chromedriver().setup();
-
-    }
     @BeforeMethod
     public void setUpMethod(){
-        driver = new ChromeDriver();
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-
+        driver = Driver.getDriver();
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        actions = new Actions(driver);
+        softAssert = new SoftAssert();
     }
 
     @AfterMethod
-    public void tearDown() {
-
-      //  driver.quit();
-
-
+    public void tearDown() throws InterruptedException {
+        Thread.sleep(2000);
+        Driver.closeDriver();
+        softAssert.assertAll();
     }
 }
 

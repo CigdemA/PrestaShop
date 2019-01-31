@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7729cfaa-067a-47f4-997f-a42768976640" name="Default Changelist" comment="" />
+    <list default="true" id="7729cfaa-067a-47f4-997f-a42768976640" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/AddToCartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/AddToCartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/CheckoutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/CheckoutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/CommonPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/CommonPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/MyAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/MyAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/ProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/pages/RegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartCheckOutDeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartCheckOutDeleteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartIconDeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartIconDeleteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartLogout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartLogout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/ShoppingCartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/ShoppingCartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/login/RegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/login/RegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/login/RegistrationTestNegativeScneraio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/login/RegistrationTestNegativeScneraio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/sil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/sil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/AccountInformationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/AccountInformationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/ProductionInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/ProductionInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/utilities/BrowserUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/utilities/ConfigurationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/utilities/ConfigurationReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prestashop/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prestashop/utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prestashop/tests/functional_tests/CartDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prestashop/tests/functional_tests/Registration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prestashop/tests/functional_tests/RegistrationNegativeScneraio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prestashop/tests/smoke_tests/loginAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prestashop/tests/smoke_tests/productInformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prestashop/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/prestashop/utilities/TestBase.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,37 +45,42 @@
     <session id="-1846990920">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="7" />
+          <entry key="project.open.time.1" value="9" />
           <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="23" />
-          <entry key="xml" value="1" />
+          <entry key="java" value="51" />
+          <entry key="properties" value="1" />
+          <entry key="runner" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="23" />
-          <entry key="XML" value="1" />
+          <entry key="JAVA" value="51" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="5156" />
+          <entry key="java" value="6073" />
+          <entry key="properties" value="19" />
           <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5156" />
+          <entry key="JAVA" value="6073" />
           <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="19" />
           <entry key="XML" value="7" />
         </counts>
       </usages-collector>
@@ -56,10 +92,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/loginAccount.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/ShoppingCartTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="774">
-              <caret line="55" column="5" selection-start-line="40" selection-start-column="6" selection-end-line="55" selection-end-column="5" />
+            <state relative-caret-position="476">
+              <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,22 +104,79 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/productInformation.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/AccountInformationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+            <state relative-caret-position="42">
+              <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartCheckOutDeleteTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartIconDeleteTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartLogin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartLogout.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/utilities/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/utilities/TestBase.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/ProductionInformation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="99">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,54 +185,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/ProductPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/Registration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+            <state relative-caret-position="253">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#720#721#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/utilities/Driver.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/RegistrationPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/RegistrationNegativeScneraio.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/CartDetails.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1548">
-              <caret line="96" column="30" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -170,18 +239,49 @@
         <option value="$PROJECT_DIR$/src/test/java/PrestaShop/Utilities.java" />
         <option value="$PROJECT_DIR$/src/test/java/PrestaShop/regression_tests.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/product.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/delete.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/LoginAccount.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/productInformation.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/loginAccount.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/ErrorMessage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/utilities/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/Registration.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/RegistrationNegativeScneraio.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/CartDetails.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/RegistrationNegativeScneraio.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/runner.xml" />
+        <option value="$PROJECT_DIR$/configuration.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/utilities/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prestashop/utilities/Driver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/utilities/ConfigurationReader.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/utilities/BrowserUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/AccountInformationTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/RegistrationTestNegativeScneraio.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/RegistrationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/login/RegistrationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/login/login/login/RegistrationTestNegativeScneraio.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/login/RegistrationTestNegativeScneraio.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/pages/AddToCartPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/pages/CheckoutPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/pages/CommonPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/pages/MyAccountPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/pages/ProductPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/pages/RegistrationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/ProductionInformation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartCheckOutDeleteTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartIconDeleteTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartLogin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartLogout.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/ShoppingCartTest.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -196,10 +296,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="39" />
-    <option name="y" value="36" />
-    <option name="width" value="1005" />
-    <option name="height" value="930" />
+    <option name="x" value="912" />
+    <option name="y" value="22" />
+    <option name="width" value="875" />
+    <option name="height" value="708" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -207,6 +307,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -248,6 +349,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PrestaShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PrestaShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="prestashop" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -258,7 +368,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="prestashop" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="smoke_tests" type="462c0819:PsiDirectoryNode" />
+              <item name="functional_tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PrestaShop" type="b2602c69:ProjectViewProjectNode" />
@@ -273,11 +383,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547530380120" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548971119783" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -291,12 +400,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CartDetails.cartDetails">
+  <component name="RunManager" selected="TestNG.ProductionInformation">
+    <configuration name="AccountInformationTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PrestaShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prestashop.tests.smoke_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prestashop.tests.smoke_tests" />
+      <option name="MAIN_CLASS_NAME" value="com.prestashop.tests.smoke_tests.AccountInformationTests" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CartDetails" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PrestaShop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prestashop.tests.functional_tests.*" />
+          <option name="PATTERN" value="com.prestashop.tests.functional_tests.login.login.login.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,7 +437,7 @@
       <module name="PrestaShop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prestashop.tests.functional_tests.*" />
+          <option name="PATTERN" value="com.prestashop.tests.functional_tests.login.login.login.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,34 +451,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ErrorMessage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductionInformation" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PrestaShop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prestashop.tests.functional_tests.*" />
+          <option name="PATTERN" value="com.prestashop.tests.smoke_tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.prestashop.tests.functional_tests" />
-      <option name="MAIN_CLASS_NAME" value="com.prestashop.tests.functional_tests.ErrorMessage" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ErrorMessage.errorMsg" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="PrestaShop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.prestashop.tests.functional_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.prestashop.tests.functional_tests" />
-      <option name="MAIN_CLASS_NAME" value="com.prestashop.tests.functional_tests.ErrorMessage" />
-      <option name="METHOD_NAME" value="errorMsg" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.prestashop.tests.smoke_tests" />
+      <option name="MAIN_CLASS_NAME" value="com.prestashop.tests.smoke_tests.ProductionInformation" />
       <properties />
       <listeners />
       <method v="2">
@@ -364,7 +471,7 @@
       <module name="PrestaShop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prestashop.tests.functional_tests.*" />
+          <option name="PATTERN" value="com.prestashop.tests.functional_tests.login.login.login.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,17 +486,17 @@
     <list>
       <item itemvalue="TestNG.RegistrationNegativeScneraio" />
       <item itemvalue="TestNG.CartDetails.cartDetails" />
-      <item itemvalue="TestNG.ErrorMessage" />
-      <item itemvalue="TestNG.ErrorMessage.errorMsg" />
       <item itemvalue="TestNG.CartDetails" />
+      <item itemvalue="TestNG.AccountInformationTests" />
+      <item itemvalue="TestNG.ProductionInformation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ProductionInformation" />
+        <item itemvalue="TestNG.AccountInformationTests" />
         <item itemvalue="TestNG.CartDetails.cartDetails" />
         <item itemvalue="TestNG.RegistrationNegativeScneraio" />
         <item itemvalue="TestNG.CartDetails" />
-        <item itemvalue="TestNG.ErrorMessage.errorMsg" />
-        <item itemvalue="TestNG.ErrorMessage" />
       </list>
     </recent_temporary>
   </component>
@@ -407,12 +514,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CartDetails - 2019.01.07 at 02h 45m 25s.xml">
-      <configuration name="CartDetails" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CartDetails - 2019.01.07 at 02h 46m 35s.xml">
-      <configuration name="CartDetails" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="CartDetails - 2019.01.07 at 02h 48m 03s.xml">
       <configuration name="CartDetails" configurationId="TestNG" />
     </history-entry>
@@ -437,11 +538,17 @@
     <history-entry file="CartDetails_cartDetails - 2019.01.07 at 15h 21m 42s.xml">
       <configuration name="CartDetails.cartDetails" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="AccountInformationTests - 2019.01.31 at 16h 41m 56s.xml">
+      <configuration name="AccountInformationTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ProductionInformation - 2019.01.31 at 16h 42m 46s.xml">
+      <configuration name="ProductionInformation" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21295546" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33684212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -455,7 +562,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37833038" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.29473683" side_tool="true" weight="0.357016" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48987854" weight="0.3285968" />
@@ -500,44 +607,6 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/loginAccount.java</url>
-          <line>68</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/productInformation.java</url>
-          <line>108</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/productInformation.java</url>
-          <line>106</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/Registration.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/Registration.java</url>
-          <line>10</line>
-          <properties class="com.prestashop.tests.functional_tests.Registration">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/PrestaShop.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/PrestaShop/utilities.java" />
@@ -547,10 +616,23 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/delete.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/ErrorMessage.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/loginAccount.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/CartDetails.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="55" column="5" selection-start-line="40" selection-start-column="6" selection-end-line="55" selection-end-column="5" />
+        <state relative-caret-position="1530">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/Registration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -559,7 +641,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/productInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
+        <state relative-caret-position="291">
           <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -567,54 +649,275 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/loginAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/Registration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+        <state relative-caret-position="126">
+          <caret line="46" column="102" selection-start-line="46" selection-start-column="96" selection-end-line="46" selection-end-column="102" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/runner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configuration.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/utilities/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        <state relative-caret-position="291">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/utilities/ConfigurationReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/utilities/BrowserUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/RegistrationNegativeScneraio.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/CartDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1548">
-          <caret line="96" column="30" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
+        <state relative-caret-position="237">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/sil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/login/RegistrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/login/RegistrationTestNegativeScneraio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/AddToCartPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/CheckoutPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/CommonPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/MyAccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/ProductPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/RegistrationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/utilities/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="476">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartCheckOutDeleteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartIconDeleteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/CartLogout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/functional_tests/cart/ShoppingCartTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/AccountInformationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/ProductionInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

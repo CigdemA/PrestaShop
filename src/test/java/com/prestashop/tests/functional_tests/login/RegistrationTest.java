@@ -1,4 +1,4 @@
-package com.prestashop.tests.functional_tests;
+package com.prestashop.tests.functional_tests.login;
 
 
 import com.prestashop.pages.*;

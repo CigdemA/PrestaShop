@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Presta Shop Tests" verbose="2">
+
+    <test name="all tests">
+        <packages>
+            <package name=".*"/>
+        </packages>
+    </test>
+
+</suite>
